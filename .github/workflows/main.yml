@@ -22,6 +22,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
+          name: 'github-pages-artifact'  # Set a unique name for the artifact
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
