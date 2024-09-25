@@ -12,4 +12,11 @@ This repository contains projects completed as part of the Responsive Web Design
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/responsive-web-design-projects.git
+   git clone https://github.com/Soumyajit-siliguri/freecodecamp-projects.git
+2. Navigate to Responsive Web Design directory
+   ```bash
+   cd freecodecamp-projects/Responsive Web Design
+Contributing
+Feel free to fork the repository and submit pull requests if you have suggestions or improvements!
+
+
